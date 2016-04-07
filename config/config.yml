@@ -1,0 +1,5 @@
+base_url: https://leaseworks-3476--SandboxDev.cs41.cloudforce.com
+login_user: anjani.lw@aircastle.com.sandboxdev
+login_password: Welcome1
+excel_workbook: ../../support/data.xls
+excel_worksheet: Regression
